@@ -4,22 +4,14 @@ This repository contains an essay that provides an introduction to React, a Java
 
 ## Contents
 
-- [Introduction](#introduction)
-- [Understanding React](#understanding-react)
-- [JSX: A Syntax Extension for JavaScript](#jsx-a-syntax-extension-for-javascript)
-- [Component Lifecycle](#component-lifecycle)
-- [State and Props](#state-and-props)
-- [React Hooks](#react-hooks)
-- [Conclusion](#conclusion)
+- [Introduction](#[introduction](https://anushkasinha126.github.io/react-essay/))
+- [Understanding React](#[understanding-react](https://anushkasinha126.github.io/react-essay/))
+- [JSX: A Syntax Extension for JavaScript](#[jsx-a-syntax-extension-for-javascript](https://anushkasinha126.github.io/react-essay/))
+- [Component Lifecycle](#[component-lifecycle](https://anushkasinha126.github.io/react-essay/))
+- [State and Props](#https://anushkasinha126.github.io/react-essay/)
+- [React Hooks](#https://anushkasinha126.github.io/react-essay/)
+- [Conclusion](#https://anushkasinha126.github.io/react-essay/)
 
 ## How to Use
 
 You can simply read the essay in the `index.md` file. It provides a comprehensive overview of React and its key concepts.
-
-## Author
-
-[Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
